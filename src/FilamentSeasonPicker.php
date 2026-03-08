@@ -2,6 +2,4 @@
 
 namespace Inalto\FilamentSeasonPicker;
 
-class FilamentSeasonPicker
-{
-}
+class FilamentSeasonPicker {}

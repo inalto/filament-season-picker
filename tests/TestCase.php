@@ -3,8 +3,8 @@
 namespace Inalto\FilamentSeasonPicker\Tests;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
-use Orchestra\Testbench\TestCase as Orchestra;
 use Inalto\FilamentSeasonPicker\FilamentSeasonPickerServiceProvider;
+use Orchestra\Testbench\TestCase as Orchestra;
 
 class TestCase extends Orchestra
 {

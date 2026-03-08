@@ -4,7 +4,6 @@ namespace Inalto\FilamentSeasonPicker;
 
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Inalto\FilamentSeasonPicker\Commands\FilamentSeasonPickerCommand;
 
 class FilamentSeasonPickerServiceProvider extends PackageServiceProvider
 {
